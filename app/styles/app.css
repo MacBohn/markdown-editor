@@ -4,6 +4,7 @@
 
 html, body {
   margin: 20px;
+  background: blue;
 }
 .box{
   float: left;
@@ -24,4 +25,11 @@ textarea{
   min-height: 600px;
   width: 90%;
   padding: 10px;
+  background: black;
+  color: white;
+}
+
+p {
+  color: white;
+  background: black;
 }
